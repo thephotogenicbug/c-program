@@ -13,6 +13,6 @@ int main()
     printf("\nFLOOR : %f", floor(3.8));
     printf("\nFLOOR : %f", floor(3.2));
     printf("\nROUND : %f", round(3.8));
-     printf("\nROUND : %f", round(3.2));
+    printf("\nROUND : %f", round(3.2));
     return 0;
 }
